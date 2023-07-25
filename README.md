@@ -24,6 +24,8 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2�
 - Cursos online
 
 ## Matérias que já cursei:
+<img align="right" alt="João-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133522653379047424/joao.gif">
+
 - Algorítmos e Programação 1
 - Modelagem de Processos de Negócios
 - Introdução à Computação
