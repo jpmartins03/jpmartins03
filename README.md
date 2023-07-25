@@ -1,16 +1,34 @@
-### Hi there 👋
+### Olá! Eu sou o João Pedro Martins Montera ☕
 
-<!--
-**jpmartins03/jpmartins03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojpmartins03@gmail.com)
 
-Here are some ideas to get you started:
+![jpmartins03 GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmartins03&show_icons=true&theme=cobalt2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jpmartins03 Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhbarboz&theme=cobalt2&layout=donut)
+
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block">
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
+    <div style="display: inline_block">
+</div><br/>
+
+Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2° semestre de Sistemas de Informação na UFMS.
+
+## Matérias que já cursei:
+- Algorítmos e Programação 1
+- Modelagem de Processos de Negócios
+- Introdução à Computação
+- Fundamentos da Admnistração
+- Fundamentos Matemáticos para a Computação
+
+## Matérias que estou cursando:
+- Algoritmos e Programação 2
+- Banco de Dados
+- Comportamento Humano-Organizacional
+- Matemática Elementar
+- Cursos online 
+
+
+
