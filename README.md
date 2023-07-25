@@ -5,7 +5,7 @@
 
 ![jpmartins03 GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmartins03&show_icons=true&theme=cobalt2)
 
-![jpmartins03 Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhbarboz&theme=cobalt2&layout=donut)
+![jpmartins03 Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmartins03&theme=cobalt2&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 
@@ -16,6 +16,13 @@
 
 Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2° semestre de Sistemas de Informação na UFMS.
 
+## Matérias que estou cursando:
+- Algoritmos e Programação 2
+- Banco de Dados
+- Comportamento Humano-Organizacional
+- Matemática Elementar
+- Cursos online
+
 ## Matérias que já cursei:
 - Algorítmos e Programação 1
 - Modelagem de Processos de Negócios
@@ -23,12 +30,6 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2�
 - Fundamentos da Admnistração
 - Fundamentos Matemáticos para a Computação
 
-## Matérias que estou cursando:
-- Algoritmos e Programação 2
-- Banco de Dados
-- Comportamento Humano-Organizacional
-- Matemática Elementar
-- Cursos online 
 
 
 
