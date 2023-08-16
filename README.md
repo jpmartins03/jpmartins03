@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-martins-montera-35b638285/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojpmartins03@gmail.com)
 
-![jpmartins03 GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmartins03&show_icons=true&theme=cobalt2)
+![jpmartins03 GitHub stats](https://github-readme-stats.vercel.app/api?usernam=jpmartins03&show_icons=true&theme=cobalt2)
 
 ![jpmartins03 Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmartins03&theme=cobalt2&hide_progress=true)
 
