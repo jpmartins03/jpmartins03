@@ -19,10 +19,11 @@
 Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2° semestre de Sistemas de Informação na UFMS.
 
 ## Matérias que estou cursando:
-- Algoritmos e Programação 2
-- Banco de Dados
-- Comportamento Humano-Organizacional
-- Matemática Elementar
+- Linguagem de programação orientada a objetos
+- Gestão estratégica
+- Organização de computadores
+- Engenharia de software
+- Estatística
 
 ## Matérias que já cursei:
 <img align="right" alt="João-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133522653379047424/joao.gif">
@@ -32,6 +33,10 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 2�
 - Introdução à Computação
 - Fundamentos da Admnistração
 - Fundamentos Matemáticos para a Computação
+- Algoritmos e Programação 2
+- Banco de Dados
+- Comportamento Humano-Organizacional
+- Matemática Elementar
 
 
 
