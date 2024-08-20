@@ -46,6 +46,8 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 4Â
 - Engenharia de software
 - EstatÃ­stica
 
+## Minha pagina no itch.io: https://jpmartins03.itch.io/
+
 
 
 
