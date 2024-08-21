@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-martins-montera-35b638285/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojpmartins03@gmail.com)
-
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://jpmartins03.itch.io/)
 
 ![jpmartins03's Stats](https://github-readme-stats.vercel.app/api?username=jpmartins03&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
@@ -23,7 +23,6 @@
 
 Desde pequeno interessado em computadores tecnologias, agora estou cursando o 4° semestre de Sistemas de Informação na UFMS.
 
-### Minha página no itch.io: https://jpmartins03.itch.io/
 
 ## Cursos que estou fazendo:
 - Desenvolvimento de jogos NoNe Class
