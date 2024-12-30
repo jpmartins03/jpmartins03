@@ -12,10 +12,14 @@
 
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
-    <img align="center" alt="python" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-     <img align="center" alt="python" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="python" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+     <img align="center" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+    
    
 </div><br/>
 
@@ -24,12 +28,9 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 4�
 
 
 ## Cursos que estou fazendo:
+- Formação Front - End
 - Desenvolvimento de jogos NoNe Class
-- Estrutura de Dados
-- Laboratorio de Banco de Dados
-- Gerência de Projetos
-- Introdução a Sistemas Operacionais
-- Empreendedorismo e Inovação
+
 
 ## Cursos que já fiz:
 <img align="right" alt="João-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133522653379047424/joao.gif">
@@ -48,6 +49,11 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 4�
 - Organização de computadores
 - Engenharia de software
 - Estatística
+- Estrutura de Dados
+- Laboratorio de Banco de Dados
+- Gerência de Projetos
+- Introdução a Sistemas Operacionais
+- Empreendedorismo e Inovação
 
 
 
