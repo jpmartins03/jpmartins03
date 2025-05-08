@@ -27,7 +27,7 @@
 </div><br/>
 
 
-Desde pequeno interessado em computadores tecnologias, agora estou cursando o 4° semestre de Sistemas de Informação na UFMS.
+Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5° semestre de Sistemas de Informação na UFMS.
 
 
 ## Cursos que estou fazendo:
