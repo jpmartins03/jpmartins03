@@ -28,7 +28,11 @@
 </div><br/>
 
 
-Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5° semestre de Sistemas de Informação na UFMS.
+Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5° semestre de Sistemas de Informação na UFMS;
+
+Atuo como estagiário em desenvolvimento de sistemas na DigitalNet MS desde fevereiro de 2025;
+
+Além disso, faço parte da empresa junior da FACOM, a MEGA.jr,  desde junho de 2025 como desenvolvedor Front-End.
 
 
 ## Cursos que estou fazendo:
