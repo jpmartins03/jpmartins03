@@ -53,6 +53,7 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5�
 
 <details>
     <summary>SI - Segundo Semestre</summary>
+    
 - Algoritmos e Programação 2
 - Banco de Dados
 - Comportamento Humano-Organizacional
@@ -61,6 +62,7 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5�
 
 <details>
     <summary>SI - Terceiro Semestre</summary>
+    
 - Linguagem de programação orientada a objetos
 - Gestão estratégica
 - Organização de computadores
@@ -70,6 +72,7 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5�
 
 <details>
     <summary>SI - Quarto Semestre</summary>
+    
 - Estrutura de Dados
 - Laboratorio de Banco de Dados
 - Gerência de Projetos
@@ -79,6 +82,7 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5�
 
 <details>
     <summary>SI - Quinto Semestre</summary>
+    
 - Inteligência Artificial
 - Analise e Projeto de Software Orientado a Objetos
 - Programação para Web
