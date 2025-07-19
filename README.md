@@ -33,30 +33,62 @@ Desde pequeno interessado em computadores tecnologias, agora estou cursando o 5�
 ## Cursos que estou fazendo:
 - Formação Front - End
 - Desenvolvimento de jogos NoNe Class
+- Curso.dev
 
 
 ## Cursos que já fiz:
 <img align="right" alt="João-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133522653379047424/joao.gif">
 
+
+<details>
+  <summary>SI - Primeiro Semestre</summary>
+    
 - Algorítmos e Programação 1
 - Modelagem de Processos de Negócios
 - Introdução à Computação
 - Fundamentos da Admnistração
 - Fundamentos Matemáticos para a Computação
+  
+</details>
+
+<details>
+    <summary>SI - Segundo Semestre</summary>
 - Algoritmos e Programação 2
 - Banco de Dados
 - Comportamento Humano-Organizacional
 - Matemática Elementar
+</details>
+
+<details>
+    <summary>SI - Terceiro Semestre</summary>
 - Linguagem de programação orientada a objetos
 - Gestão estratégica
 - Organização de computadores
 - Engenharia de software
 - Estatística
+</details>
+
+<details>
+    <summary>SI - Quarto Semestre</summary>
 - Estrutura de Dados
 - Laboratorio de Banco de Dados
 - Gerência de Projetos
 - Introdução a Sistemas Operacionais
 - Empreendedorismo e Inovação
+</details>
+
+<details>
+    <summary>SI - Quinto Semestre</summary>
+- Inteligência Artificial
+- Analise e Projeto de Software Orientado a Objetos
+- Programação para Web
+- Computação e Sociedade
+- Fundamentos de Redes de Computadores
+</details>
+
+
+
+
 
 
 
